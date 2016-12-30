@@ -17,7 +17,6 @@ com/linecorp/bot/client/LineMessagingClient.class
 com/linecorp/bot/model/event/message/LocationMessageContent.class
 com/linecorp/bot/servlet/LineBotCallbackException.class
 com/linecorp/bot/servlet/LineBotCallbackRequestParser.class
-com/dotozambo/HelloWorld.class
 com/linecorp/bot/client/MessageContentResponse.class
 com/linecorp/bot/spring/boot/LineBotAutoConfiguration.class
 com/linecorp/bot/model/action/Action.class
@@ -48,6 +47,7 @@ com/linecorp/bot/model/error/ErrorDetail.class
 com/linecorp/bot/spring/boot/support/ReplyByReturnValueConsumer$ReplyByReturnValueConsumerBuilder.class
 com/linecorp/bot/client/ExceptionConverter.class
 com/linecorp/bot/spring/boot/annotation/EventMapping.class
+com/dotozambo/Controller/LineMessageController.class
 com/linecorp/bot/spring/boot/support/LineBotServerArgumentProcessor.class
 com/linecorp/bot/model/message/TextMessage.class
 com/linecorp/bot/model/message/StickerMessage.class
@@ -91,4 +91,5 @@ com/linecorp/bot/model/event/UnfollowEvent.class
 com/linecorp/bot/client/exception/LineMessagingException.class
 com/linecorp/bot/client/MessageContentResponse$MessageContentResponseBuilder.class
 com/linecorp/bot/model/event/Event.class
+com/dotozambo/Controller/LineMessageController$DownloadedContent.class
 com/linecorp/bot/model/event/FollowEvent.class

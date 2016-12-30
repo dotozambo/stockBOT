@@ -17,7 +17,6 @@
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/message/template/ButtonsTemplate.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/event/message/TextMessageContent.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/message/AudioMessage.java
-/Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/dotozambo/HelloWorld.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/message/StickerMessage.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/client/exception/GeneralLineMessagingException.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/dotozambo/StockBotApplication.java
@@ -62,6 +61,7 @@
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/event/message/MessageContent.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/client/LineSignatureValidator.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/error/ErrorResponse.java
+/Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/dotozambo/Controller/LineMessageController.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/action/PostbackAction.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/message/imagemap/ImagemapArea.java
 /Users/1100436/Documents/dotozambo/stockBOT/src/main/java/com/linecorp/bot/model/event/source/RoomSource.java
