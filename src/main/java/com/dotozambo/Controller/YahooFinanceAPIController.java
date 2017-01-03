@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
@@ -15,14 +13,12 @@ import javax.servlet.http.HttpServletResponse;
 
 import lombok.extern.slf4j.Slf4j;
 
-import org.json.JSONArray;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Slf4j
